@@ -6,5 +6,5 @@ poder obtener dicha información. Idealmente, aunque no siempre, se puede debido
 fluida.
 Algo interesante fue que para probar dos diseños de interfaces para la aplicación, se abarcó a solamente con un pequeño segmento del 
 total de usuarios, sin necesidad de aplicarlo de golpe y esperar una respuesta. Este tipo de pruebas, pienso yo, debería ser implementado 
-incluso en etapas iniciales, específicamente cuando se un nivel de popularidad como para almacenar a más de mil usuarios. Obviamente, cuando se 
-el sistema tiene poca cantidad de usuarios los datos de respuesta se sesgan y eso es algo que se debe evitar. 
+incluso en etapas iniciales, específicamente cuando se un nivel de popularidad como para almacenar a más de mil usuarios. Obviamente, 
+cuando el sistema tiene poca cantidad de usuarios los datos de respuesta se sesgan y eso es algo que se debe evitar. 
