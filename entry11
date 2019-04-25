@@ -1,1 +1,10 @@
-
+El siguiente TED talk (https://www.ted.com/talks/rochelle_king_the_complex_relationship_between_data_and_design_in_ux#t-100) habla sobre 
+cómo la información que los usuarios nos retroalimentan definen así mismo el diseño de la interfaz de usario.
+En un segmento del video se ejemplifica la aplicación de Spotify con un concierto en la vida real y qué preguntas se le hacen a cada 
+cliente respectivamente para retroalimentar la experiencia obtenida. Coincidió que es posible abordar preguntas muy similares para 
+poder obtener dicha información. Idealmente, aunque no siempre, se puede debido a que la interactividad con la interfaz es naturalmente 
+fluida.
+Algo interesante fue que para probar dos diseños de interfaces para la aplicación, se abarcó a solamente con un pequeño segmento del 
+total de usuarios, sin necesidad de aplicarlo de golpe y esperar una respuesta. Este tipo de pruebas, pienso yo, debería ser implementado 
+incluso en etapas iniciales, específicamente cuando se un nivel de popularidad como para almacenar a más de mil usuarios. Obviamente, cuando se 
+el sistema tiene poca cantidad de usuarios los datos de respuesta se sesgan y eso es algo que se debe evitar. 
