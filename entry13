@@ -1,4 +1,11 @@
 Encotré un artículo 
 (https://uxdesign.cc/visual-indicators-c3e0e5ce90f7?fbclid=IwAR2DrgsAINV4iyV-qLpWxOnC89XlZghBonuSRH3ZYhmgixAOTX-3GYyg7gQ)
 que ejemplifica algunos indicadores implementados en la vida real. 
+A diferencia de los affordances, un indicador puede ser específico según el proyecto y lo que significa en éste puede tener un 
+significado completamente distinto en otro proyecto.
+A pesar de esto, existen indicadores que as su vez son affordances, como las campanas de notificación o el signo de más para añadir 
+nuevos elementos.
+Sería interesante ver cómo es que UX/UI influye en la elección de qué indicadores implementar, específicamente con aquellos que 
+no son affordances.
+Mi equipo de proyecto actualmente no había considerado esto antes. 
 
